@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Kleio Antoniou, Sudent at the Open University of Cyprus</title>
+		<title>Kleio Antoniou, Student at the Open University of Cyprus</title>
 	</head>
 	<body>
 		<nav>
