@@ -1,5 +1,4 @@
 # ANTOKLEIO.github.io
--This o data created by [Jonathan McGlone](http://jmcglone.com) and used in a [step-by-step beginners guide](http://jmcglone.com/guides/github-pages) to creating and hosting a personal website using GitHub. You can view the demo data at <http://hankquinlan.github.io> and read the guide at <http://jmcglone.com/guides/github-pages>. 
-+This is demo data created by [Jonathan McGlone](http://jmcglone.com) and used in a [step-by-step beginners guide](http://jmcglone.com/guides/github-pages) to creating and hosting a personal website using GitHub and Jekyll. You can view the demo data at <http://hankquinlan.github.io> and read the guide at <http://jmcglone.com/guides/github-pages>. 
+-This template created by [Jonathan McGlone](http://jmcglone.com) and customized by Kleio Antoniou on 09/10/2015  to creating and hosting a personal website using GitHub.  it contains some usefull information about the creator and contact info.You can view  data at <http://antokleio.github.io> 
  
  Users are free to copy and re-use any and all of the code contained here without contacting me.
